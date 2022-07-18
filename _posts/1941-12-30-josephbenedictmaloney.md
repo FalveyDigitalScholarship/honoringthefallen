@@ -108,13 +108,13 @@ OUR THANKS TO THE U.S. FOREST SERVICE FOR PERMISSION TO REMEMBER THOSE WHO DIED 
 
 ![Joseph Benedict Maloney Gravestone](images/JosephBenedictMaloney_gravestone.jpg)
   {:.image}
-Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941
+[Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941](https://www.findagrave.com/memorial/18916232/joseph-benedict-maloney)
   {:.caption}
 
 #### Works cited
 
 {:.bibliography}
-1. College, V. (1967). _Belle Air_ 1937. Villanova, PA : Villanova College.<https://digital.library.villanova.edu/Item/vudl:531641>
+1. College, V. (1967). _Belle Air_ 1937. Villanova, PA : Villanova College. <https://digital.library.villanova.edu/Item/vudl:531641>
 2. "Army Presses Bomber Search: Missing Plane Had 9 Aboard", Poughkeepsie Eagle-News, Poughkeepsie, NY, January 2, 1942. <https://www.newspapers.com/clip/29088214/joseph-benedict-maloney-army-presses/>
 3. "2 Die, 5 Hurt In Crash Of U.S. Bomber", Hartford Courant, Hartford, CT, January 16, 1942. <https://www.newspapers.com/clip/29084871/joseph-benedict-maloney-seven-dead-on/>
 4. Second Lieutenant Joseph Benedict Maloney, 1937. Photo Source: Gay Choate Keilty.
@@ -122,4 +122,4 @@ Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United Stat
 6. Joseph Benedict Maloney, “Second Lieut. J. Benedict Maloney On Missing Bomber”, _Waterbury Democrat_, January 2, 1942. Photo Source: Gay Choate Keilty.
 7. Memorial painting by R.T. Foster, from invitation to plaque dedication. Photo Source: Gay Choate Keilty.
 8. Memorial plaque dedicated to those who died in the crash. The dedication was held at the Keller Peak Lookout Tower on Saturday, 12 AUG 1995. The plaque is located on a large rock, just off the road that leads to the Keller Peak fire lookout. Photo Source: Gay Choate Keilty.
-9. Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941. Photo Source; Gay Choate Keilty.
+9. Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941. Find A Grave. <https://www.findagrave.com/memorial/18916232/joseph-benedict-maloney>
