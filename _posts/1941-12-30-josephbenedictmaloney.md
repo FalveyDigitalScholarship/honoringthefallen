@@ -67,32 +67,24 @@ Joseph Benedict Maloney, â€œSecond Lieut. J. Benedict Maloney On Missing Bomberâ
 Memorial painting by R.T. Foster, from invitation to plaque dedication.
   {:.caption}
 
-  The Spirits of Keller Peak
-  in memory of the crew of
-  B-26 Marauder, 40-1475
-  33rd Bomber Squadron
-  crashed
-  December 30, 1941, Keller Peak, Calif.
-  crew above, From Left:
-  2nd Lt Frank A. Kobal
-  **2nd Lt Joseph B. Maloney**
-  TSGT Waldo C. Jensen
-  SGT Roger F. Organ
-  PFC William R. Chinn
-  PFC Vernon H. Englebrecht
-  PFC George C. May
-  PFC Robert M. Enyeart
-  PVT. Jack C. Shirley
+The Spirits of Keller Peak in memory of the crew of B-26 Marauder, 40-1475 33rd Bomber Squadron crashed December 30, 1941, Keller Peak, Calif. crew above, From Left:
+
+  * 2nd Lt Frank A. Kobal
+  * **2nd Lt Joseph B. Maloney**
+  * TSGT Waldo C. Jensen
+  * SGT Roger F. Organ
+  * PFC William R. Chinn
+  * PFC Vernon H. Englebrecht
+  * PFC George C. May
+  * PFC Robert M. Enyeart
+  * PVT. Jack C. Shirley
 
 ![Memorial plaque dedicated to those who died in the crash. The dedication was held at the Keller Peak Lookout Tower on Saturday, 12 AUG 1995. The plaque is located on a large rock, just off the road that leads to the Keller Peak fire lookout.](images/JosephBenedictMaloney_MemorialPlaqueCrashSite.jpg)
   {:.image}
 Memorial plaque dedicated to those who died in the crash. The dedication was held at the Keller Peak Lookout Tower on Saturday, 12 AUG 1995. The plaque is located on a large rock, just off the road that leads to the Keller Peak fire lookout.
   {:.caption}
 
-THIS PLAQUE IS DEDICATED TO
-THE BRAVE MEN AND WOMEN WHO HAVE SERVED
-IN THE ARMED FORCES OF
-THE UNITED STATE OF AMERICA
+THIS PLAQUE IS DEDICATED TO THE BRAVE MEN AND WOMEN WHO HAVE SERVED IN THE ARMED FORCES OF THE UNITED STATE OF AMERICA
 
 ESPECIALLY:
   1. 2d Lt Frank A. Kobal
