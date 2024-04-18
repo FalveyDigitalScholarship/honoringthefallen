@@ -3,7 +3,7 @@ layout: post
 title: "Raymond J. Donnelly"
 categories: ["NAVY"]
 date: 1972-07-19
-vudate: 1966
+vudate: 1944
 lat: 9.4957
 lng: 105.3771
 runningtitle: "Raymond J. Donnelly"
